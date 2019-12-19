@@ -2,6 +2,9 @@
 
 All the url goodies we encountered especially in the category of information and cyber security.
 
+### Infosec Basics
+- How to build a successful InfoSec job https://danielmiessler.com/blog/build-successful-infosec-career/
+
 ### Contributors
 
 - [Thanga Ayyanar](https://thangaayyanar.blogspot.com)
