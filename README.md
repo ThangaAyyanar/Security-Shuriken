@@ -14,11 +14,11 @@ All the url goodies we encountered especially in the category of information and
 - [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
   * Hack the box writeups
  - [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
-  * Former member of Dragon Sector CTF 
-  * CTF writeup
+   * Former member of Dragon Sector CTF 
+   * CTF writeup
  - [0x41414141](https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ)
-  * Binary challenge solver
-  * use radare2 tools
+   * Binary challenge solver
+   * use radare2 tools
 
 ### Magazines
 
