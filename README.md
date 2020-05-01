@@ -2,6 +2,10 @@
 
 All the url goodies we encountered especially in the category of information and cyber security.
 
+### My CTF setup
+- dockerfile (will change perdiocally).It is based on LiveOverflow dockerfile https://github.com/LiveOverflow/pwn_docker_example 
+- contains binary challenges solving tools.
+
 ### Infosec Basics
 - How to build a successful InfoSec job https://danielmiessler.com/blog/build-successful-infosec-career/
 
