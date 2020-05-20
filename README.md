@@ -24,6 +24,10 @@ All the url goodies we encountered especially in the category of information and
    * Binary challenge solver
    * use radare2 tools
 
+### Platforms
+- TryHackMe
+- HackTheBox
+
 ### Magazines
 
 - [Paged out](https://pagedout.institute)
